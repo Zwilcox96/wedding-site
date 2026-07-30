@@ -326,7 +326,7 @@ header {
     background-position: center center;
     color: white;
     /*background-attachment: fixed;*/
-    height: 50rem;
+    height: 100dvh;
 }
 
 .section-angel h3{
@@ -341,7 +341,7 @@ header {
     background-position: center center;
     color: white;
     /*background-attachment: fixed;*/
-    height: 50rem;
+    height: 100dvh;
 }
 
 .section-zack h3{
