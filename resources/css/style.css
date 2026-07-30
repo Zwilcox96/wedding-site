@@ -320,13 +320,35 @@ header {
 /* Social */
 /*---------------------*/
 
-.section-social {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url("img/helical-walkway.jpg");
+.section-angel {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.2)), url("img/majesticangel.JPEG");
     background-size: cover;
+    background-position: center center;
     color: white;
-    background-attachment: fixed;
+    /*background-attachment: fixed;*/
+    height: 50rem;
 }
 
+.section-angel h3{
+    text-align: center;
+    font-size: 150%;
+    margin-top: 15px;
+}
+
+.section-zack {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.2)), url("img/zack.JPEG");
+    background-size: cover;
+    background-position: center center;
+    color: white;
+    /*background-attachment: fixed;*/
+    height: 50rem;
+}
+
+.section-zack h3{
+    text-align: center;
+    font-size: 150%;
+    margin-top: 15px;
+}
 /*---------------------*/
 /* Meals*/
 /*---------------------*/
