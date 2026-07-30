@@ -204,7 +204,7 @@ input[type=submit] {
 /* Header*/
 /*---------------------*/
 header {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.1)), url("img/us.JPEG");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.1)), url("img/us.webp");
     background-size: cover;
     background-position: center;
     height: 100vh;
@@ -321,7 +321,7 @@ header {
 /*---------------------*/
 
 .section-angel {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.2)), url("img/majesticangel.JPEG");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.2)), url("img/majesticangel.webp");
     background-size: cover;
     background-position: center center;
     color: white;
@@ -336,7 +336,7 @@ header {
 }
 
 .section-zack {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.2)), url("img/zack.JPEG");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.2)), url("img/zack.webp");
     background-size: cover;
     background-position: center center;
     color: white;

@@ -157,15 +157,15 @@
     section {padding: 25px 0;}
     .contact-form{width: 100%;}
     .section-angel {
-        background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.2)), url("img/majesticangel-mobile.JPEG");
+        background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.2)), url("img/majesticangel-mobile.webp");
         background-position: center center;
     }
     .section-zack {
-        background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.2)), url("img/zack-cropped.JPEG");
+        background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.2)), url("img/zack-cropped.webp");
         background-position: center center;
     }
     header {
-        background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.1)), url("img/us-cropped.JPEG");
+        background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.1)), url("img/us-cropped.webp");
         background-position: center center;
     }
 }
