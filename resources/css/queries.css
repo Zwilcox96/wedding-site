@@ -137,6 +137,15 @@
     .section-services i{
         text-align: center;
     }
+
+    .profile-pic {
+        text-align: center;
+    }
+
+    .profile-pic img {
+        display: block;
+        margin: 0 auto 10px;
+    }
     
     .contact-form{width: 100%;}
     

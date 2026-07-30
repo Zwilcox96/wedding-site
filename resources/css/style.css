@@ -204,7 +204,7 @@ input[type=submit] {
 /* Header*/
 /*---------------------*/
 header {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.1)), url("img/us.JPEG");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.1)), url("img/us-cropped.JPEG");
     background-size: cover;
     background-position: center;
     height: 100vh;
