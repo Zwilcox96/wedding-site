@@ -1,0 +1,84 @@
+html, body {
+    
+    color: #505050;
+    font-family: 'Old Standard TT', serif;
+    font-size: 20px;
+    font-weight: 300;
+    text-rendering: optimizeLegibility;
+    overflow-x: hidden;
+    
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    background-attachment: fixed;
+}
+
+h1 {
+    color: #ffffff;
+    text-align: center;
+}
+
+header {
+    background-image: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.2)), url("img/LinkedIn-1.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    background-attachment: fixed;
+}
+
+.icon-small {
+    display: inline-block;
+    width: 30px;
+    text-align: center;
+    /*color: #2284e6;*/
+    font-size: 120%;
+    margin right: 10px;
+    /*secrets to align text and icons*/
+    line-height: 100%;
+    vertical-align: middle;
+    margin-top: -2px;
+}
+
+.car-box {
+    background-color: white;
+    border-radius: 5px;
+    width: 90%;
+    margin-left: 5%;
+    box-shadow: 0 2px 2px #efefef;
+    margin-top: 20px;
+
+}
+
+.car-box ul {
+    list-style: none;
+}
+
+.car-box h3 {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.car-box h4 {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.car-box ul li {
+    padding 5px, 0;
+}
+
+.car-box div{
+    padding: 10px;
+    border-bottom: 1px solid #e8e8e8;
+}
+
+.car-box div:first-child {
+    background-color: #fff9de;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+
+.car-box div:last-child {
+    text-align: left;
+    border-bottom: 0;
+}
