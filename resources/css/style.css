@@ -204,7 +204,7 @@ input[type=submit] {
 /* Header*/
 /*---------------------*/
 header {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.1)), url("img/us.webp");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.4)), url("img/header.webp");
     background-size: cover;
     background-position: center;
     height: 100vh;
@@ -214,7 +214,7 @@ header {
 .hero-text-box{
     position: absolute;
     width: 1140px;
-    top: 40%;
+    top: 75%;
     left: 50%;
     transform: translate(-50%, -50%);
 }
